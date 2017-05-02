@@ -1,0 +1,66 @@
+<div style="width:900px; margin:0px auto;">
+    <div style="width: 44%;float: left;padding: 11px 15px;color: #999999;text-align: right;line-height: 56px;font-size: 24px;">Property Inquiry Request</div>
+    <div style="width: 100%;float: left;position: relative;background: #fff;padding: 20px 0px;color: #454545;font-size: 16px;">
+     Dear Administrator,<br>You have received a Inquiry email with the following details
+    </div>
+    <table width="100%" border="0" cellspacing="1" cellpadding="10" bgcolor="#fff">
+    <tbody>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">First name</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-337]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Last name</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-338]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Phone no</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-339]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Email</td>
+            <td bgcolor="#484848" style="color:#fff;"><a href="mailto:[email-244]" style="color:#fff;">[email-244]</a></td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Address1</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-341]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Address2</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-342]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Property Names</td>
+            <td bgcolor="#484848" style="color:#fff;">[_post_title]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Information needed about this property</td>
+            <td bgcolor="#484848" style="color:#fff;">[textarea-607]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">City</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-341]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">State</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-342]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Zip Code</td>
+            <td bgcolor="#484848" style="color:#fff;">[text-343]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Country</td>
+            <td bgcolor="#484848" style="color:#fff;">[menu-80]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Contact Type</td>
+            <td bgcolor="#484848" style="color:#fff;">[menu-81]</td>
+        </tr>
+        <tr>
+            <td bgcolor="#996130" style="color:#fff;">Knowlegde about gruber source</td>
+            <td bgcolor="#484848" style="color:#fff;">[menu-82]</td>
+        </tr>        
+    </tbody>
+</table>
+</div>
